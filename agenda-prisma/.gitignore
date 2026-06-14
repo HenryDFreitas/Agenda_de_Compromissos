@@ -1,2 +1,9 @@
+# Pastas que não devem ir para o GitHub
+node_modules/
+dist/
+build/
 .env
-.node_modules
+.DS_Store
+
+# Pastas de teste/cobertura (opcional, mas recomendado)
+coverage/
